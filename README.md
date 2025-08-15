@@ -8,7 +8,6 @@ An undergraduate Software Engineer building web apps and exploring different tec
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAbd22&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadAbd22&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbd22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
